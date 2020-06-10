@@ -7,4 +7,4 @@ Please take the following steps:
 2) unzip and download all necessary files ("features.txt", "subject_train.txt", "X_train.txt", "y_train.txt", "subject_test.txt", "X_test.txt", "y_test.txt") ) in the working directory
 3) run R script "run_analysis", including installing\loading package "reshape2"
 
-The R script produces dataset "output.csv".
+The R script produces dataset "output.txt".
