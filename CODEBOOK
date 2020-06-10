@@ -1,0 +1,10 @@
+CODEBOOK
+
+This file illustrates the variables in file "output". This file is the combination of seven original files, as discussed in the README file. 
+
+Information on those original files can be found in the README of the authors of the dataset (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+
+Variables:
+1) subjectID -- This factor variable contains the number identifying each of the 30 volunteers who were part of the study. The variables goes from 1 to 30.
+2) activity -- This factor variable contains the name of the activity. It takes six values: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying.
+3) variable 3 to 68 -- Each of these 66 numerical variables measures the value of select measurements taken during the study.
