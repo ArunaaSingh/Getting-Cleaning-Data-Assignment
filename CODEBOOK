@@ -1,6 +1,6 @@
 CODEBOOK
 
-This file illustrates the variables in file "output". This file is the combination of seven original files, as discussed in the README file. 
+This file describes the variables in file "output". This file is the combination of seven original files, as discussed in the README file. 
 
 Information on those original files can be found in the README of the authors of the dataset (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
